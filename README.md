@@ -2,4 +2,14 @@ readl
 =====
 readl help you build your library. You can favorite and share pages. 
 
-###roadmap###
+
+#### Dependencies ####
+CodeIgniter
+Backbone.js
+jQuery
+
+####Author####
+pananq@gmail.com
+
+
+####Roadmap####
